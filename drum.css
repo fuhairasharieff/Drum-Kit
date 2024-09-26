@@ -1,0 +1,76 @@
+body{
+    background-color: crimson;
+}
+
+.w{
+    background-image: url(images/tom1.png);
+    height: 150px;
+    width: 180px;
+    border-radius: 50%;
+    color: white;
+    text-shadow: 5px 5px 1px black;
+    filter: drop-shadow(10px 10px 10px yellow);
+}
+
+.a{
+    background-image: url(images/tom2.png);
+    height: 150px;
+    width: 180px;
+    border-radius: 50%;
+    color: white;
+    text-shadow: 5px 5px 1px black;
+    filter: drop-shadow(10px 10px 10px yellow);
+}
+
+.s{
+    background-image: url(images/tom3.png);
+    height: 150px;
+    width: 180px;
+    border-radius: 50%;
+    color: white;
+    text-shadow: 5px 5px 1px black;
+    filter: drop-shadow(10px 10px 10px yellow);
+}
+
+.d{
+    background-image: url(images/tom4.png);
+    height: 150px;
+    width: 180px;
+    border-radius: 50%;
+    color: white;
+    text-shadow: 5px 5px 1px black;
+    filter: drop-shadow(10px 10px 10px yellow);
+}
+
+.j{
+    background-image: url(images/crash.png);
+    height: 150px;
+    width: 180px;
+    border-radius: 50%;
+    color: white;
+    text-shadow: 5px 5px 1px black;
+    filter: drop-shadow(10px 10px 10px yellow);
+}
+
+.k{
+    background-image: url(images/snare.png);
+    height: 150px;
+    width: 180px;
+    border-radius: 50%;
+    color: white;
+    text-shadow: 5px 5px 1px black;
+    filter: drop-shadow(10px 10px 10px yellow);
+}
+
+.l{
+    background-image: url(images/kick.png);
+    height: 150px;
+    width: 180px;
+    border-radius: 50%;
+    color: white;
+    text-shadow: 5px 5px 1px black;
+    filter: drop-shadow(10px 10px 10px yellow);
+}
+
+
+
